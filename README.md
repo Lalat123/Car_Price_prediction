@@ -18,3 +18,11 @@
       * numpy (Data Preprocessing)
       * matplotlib & seaborn (Exploratory Data Analysis)
       * scikit-learn (Model Building & Evaluation)
+🚀 Key Features
+      Data Cleaning: Handled missing values and removed outliers in car pricing.
+      Feature Engineering: Converted categorical data (like Fuel Type) into numerical format using One-Hot Encoding.
+      Exploratory Data Analysis (EDA): Visualized the correlation between car age and price depreciation.
+      Model Training: Implemented (Linear Regression) to achieve an accuracy of 83%.
+📈 Results
+      The model was evaluated using Mean Absolute Error (MAE) and R-squared score.
+      R² Score: 0.83
